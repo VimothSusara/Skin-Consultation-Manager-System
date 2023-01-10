@@ -225,7 +225,7 @@ public class WestminsterSkinConsultationManager implements SkinConsultationManag
         }
     }
 
-    //Main method
+    //Main method of console menu
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);
